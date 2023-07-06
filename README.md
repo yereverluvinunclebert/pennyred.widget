@@ -2,7 +2,7 @@
  
 Penny Red Yahoo Widget, written in Javascript and XML for the Yahoo 
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
-Apple Mac.
+Apple Mac. 
 
 
 This Penny Red is an attractive dieselpunk Yahoo widget for your desktop. 
