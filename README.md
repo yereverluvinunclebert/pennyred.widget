@@ -12,13 +12,19 @@ that you can move anywhere around the desktop as you require. It can act as a
 larger and more attractive icon linking to any task you require. Personally, I 
 use it for opening thunderbird, the desktop email client.
 
+![image2](https://github.com/yereverluvinunclebert/pennyred.widget/assets/2788342/969c751e-c65f-418b-b80d-fd5ec31c1f25)
+
 The widget can be resized - Hover the cursor over the widget. Press the CTRL key 
 and use your mousewheel up or down. The widget will resize dynamically.
+
+![image3](https://github.com/yereverluvinunclebert/pennyred.widget/assets/2788342/1d6efb17-7cfb-40c6-8b1b-91fc49ea2c03)
 
 All javascript widgets need an engine to function, in this case the widget uses 
 the Yahoo Widget Konfabulator engine. The engine interprets the javascript and 
 creates the widget according to the XML description and using the images you 
 provide. 
+
+![image4](https://github.com/yereverluvinunclebert/pennyred.widget/assets/2788342/de716eda-afe2-409e-b15c-83d528c964c8)
 
 Built using: 
 
@@ -36,7 +42,9 @@ Tested on :
 	Windows 10 Home 64bit on Intel    
 	Windows 10 Home 64bit on AMD    
 	Windows 11 64bit on Intel  
-	
+
+ ![image5](https://github.com/yereverluvinunclebert/pennyred.widget/assets/2788342/ba34fb84-88f8-4c0f-b930-85b9b4d4a6e7)
+
 Dependencies:
 
 o A windows-alike o/s such as Windows XP, 7-11 or Apple Mac OSX 11.    	
@@ -49,7 +57,9 @@ o Installation of the yahoo widget SDK runtime engine
 Running the widget using a javascript engine frees javascript from running only 
 within the captivity of a browser, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
- 
+
+ ![image5](https://github.com/yereverluvinunclebert/pennyred.widget/assets/2788342/81bd0e58-ddf9-425c-83ff-debf1b5c680e)
+
 Instructions for running Yahoo widgets on Windows
 =================================================
 
