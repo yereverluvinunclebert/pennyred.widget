@@ -14,7 +14,7 @@ use it for opening thunderbird, the desktop email client.
 
 ![image2](https://github.com/yereverluvinunclebert/pennyred.widget/assets/2788342/969c751e-c65f-418b-b80d-fd5ec31c1f25)
 
-The widget can be resized - Hover the cursor over the widget. Press the CTRL key 
+You can select one of several stamp images. The widget can be resized - Hover the cursor over the widget. Press the CTRL key 
 and use your mousewheel up or down. The widget will resize dynamically.
 
 ![image3](https://github.com/yereverluvinunclebert/pennyred.widget/assets/2788342/1d6efb17-7cfb-40c6-8b1b-91fc49ea2c03)
