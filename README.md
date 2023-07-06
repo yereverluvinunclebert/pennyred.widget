@@ -49,9 +49,6 @@ o Installation of the yahoo widget SDK runtime engine
 Running the widget using a javascript engine frees javascript from running only 
 within the captivity of a browser, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
-
-![tank-help-750](https://github.com/yereverluvinunclebert/Panzer-Storage-Gauge-Ywidget/assets/2788342/fdfda55c-7e25-4908-ae5c-90e4c3c15961)
-
  
 Instructions for running Yahoo widgets on Windows
 =================================================
