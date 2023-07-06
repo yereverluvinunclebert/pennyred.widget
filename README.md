@@ -81,7 +81,7 @@ Wit these instructions you should be able to start Yahoo! Widgets and the
 menubar item should appear. Widgets can then be started from the menubar or by 
 double-clicking on the KON file in the usual way.
 
-![about](https://github.com/yereverluvinunclebert/Panzer-Storage-Gauge-Ywidget/assets/2788342/27808426-989e-4507-95e0-996b10ae1fd7)
+![about](https://github.com/yereverluvinunclebert/pennyred.widget/assets/2788342/3ee9300d-ec3c-4747-8b83-e0b2d3d015af)
 
 LICENCE AGREEMENTS:
 
