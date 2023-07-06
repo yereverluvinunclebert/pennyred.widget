@@ -58,6 +58,7 @@ Running the widget using a javascript engine frees javascript from running only
 within the captivity of a browser, you will now be able to run these widgets on 
 your Windows desktop as long as you have the correct widget engine installed.
 
+![image6](https://github.com/yereverluvinunclebert/pennyred.widget/assets/2788342/08b104be-6995-436c-86b8-15ff10a9c2b9)
 
 
 
